@@ -1,6 +1,6 @@
 # Revenue Insight of Hospitality Domain using Power BI
 
-Problem Statement
+## Problem Statement
 
 Domain:  Hospitality       Function: Revenue
 
