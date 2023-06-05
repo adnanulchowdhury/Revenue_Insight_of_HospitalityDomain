@@ -20,3 +20,5 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 https://github.com/adnanulchowdhury/Revenue_Insight_of_HospitalityDomain/assets/32076950/58a99d50-dd40-415b-9a3f-6a0cb24b1141
 
+### Download the PowerBI file
+link: https://github.com/adnanulchowdhury/Revenue_Insight_of_HospitalityDomain/blob/main/Revenue_Insights_HotelChain.pbix
